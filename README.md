@@ -7,7 +7,7 @@ working title: Castrop-Rauxel
 ```shell
 # variables
 export SCRAM_ARCH="slc7_amd64_gcc700"
-export CMSSW_VERSION="CMSSW_11_0_0_pre3"
+export CMSSW_VERSION="CMSSW_11_0_0_pre5"
 
 # setup CMSSW
 source "/cvmfs/cms.cern.ch/cmsset_default.sh" ""
