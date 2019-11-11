@@ -16,7 +16,7 @@ cd "$CMSSW_VERSION/src"
 cmsenv
 
 # setup the graphreco repo
-git clone git@github.com:riga/graphreco.git RecoHGCal/GraphReco
+git clone git@github.com:gvonsem/graphreco.git RecoHGCal/GraphReco
 
 # compile
 scram b -j
